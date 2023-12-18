@@ -9,4 +9,4 @@
 [[6.2 Array c]]
 [[6.3  Prototipi funzioni - più file sorgente]]
 [[7.1 Esercizi]]
-
+[[8. Tipi di S.O. Compilatori C Macchine Virtuali]]

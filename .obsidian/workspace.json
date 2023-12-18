@@ -4,115 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "e19f73eded0d410c",
-        "type": "split",
+        "id": "baab370e412cf0be",
+        "type": "tabs",
+        "dimension": 67.6875,
         "children": [
           {
-            "id": "9b29b72df3e394b1",
+            "id": "d70f3c777a020205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "515b4b8d94dd86e4"
+          }
+        ]
+      },
+      {
+        "id": "a3e8affde90144bf",
+        "type": "split",
+        "dimension": 32.3125,
+        "children": [
+          {
+            "id": "53b01c9a1a48882c",
             "type": "tabs",
-            "dimension": 69.83559685489635,
             "children": [
               {
-                "id": "4d3475c38f35eb3d",
+                "id": "ac153506e51bc0a9",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "localgraph",
                   "state": {
-                    "file": "ITS/UFS/UFS 01 Sistemi operativi/7.1 Esercizi.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
+                    "file": "README.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.927481127131147,
+                      "close": true
+                    }
                   }
                 },
-                "group": "c804e0fdb7202607"
-              },
+                "group": "515b4b8d94dd86e4"
+              }
+            ]
+          },
+          {
+            "id": "a60bcebb7b218b77",
+            "type": "tabs",
+            "children": [
               {
-                "id": "33c65ee61f77d96a",
+                "id": "84489918c1f99dd6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ITS/UFS/UFS 04 Java base/2..md",
+                    "file": "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "506ac32aeaa824bf",
-            "type": "split",
-            "dimension": 30.16440314510365,
-            "children": [
-              {
-                "id": "ad4190806b96022d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "622e6c8d8752c095",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "ITS/UFS/UFS 01 Sistemi operativi/7.1 Esercizi.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": true,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.6081314521639146,
-                          "close": true
-                        }
-                      }
-                    },
-                    "group": "c804e0fdb7202607"
-                  }
-                ]
-              },
-              {
-                "id": "af1ab3e0bbd6a4be",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "91a1a85c72e2a4aa",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ITS/UFS/UFS 03 Algoritmi e strutture dati/UFS 03 index.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -141,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lower",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 396.5
   },
   "right": {
     "id": "9bf066b9c58ef66a",
@@ -178,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITS/UFS/UFS 04 Java base/2..md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITS/UFS/UFS 04 Java base/2..md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITS/UFS/UFS 04 Java base/2..md"
+                "file": "README.md"
               }
             }
           },
@@ -229,13 +208,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "38443b41d318c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 200.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,58 +233,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33c65ee61f77d96a",
+  "active": "d70f3c777a020205",
   "lastOpenFiles": [
+    "To - Do compiti.md",
     "README.md",
-    "ITS/UFS/UFS 04 Java base/2..md",
+    "ITS/UFS/UFS 04 Java base/3. Metodi String Operatori aritmetici.md",
+    "ITS/UFS/UFS 04 Java base/3.1 Esercizi manipolazione stringhe.md",
+    "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
+    "ITS/UFS/UFS 04 Java base/2. Concetti base Java.md",
+    "ITS/UFS/UFS 04 Java base/2.1 Esercizio input.md",
+    "ITS/UFS/UFS 04 Java base/2.2 Esercizio stampa su più righe.md",
+    "5.1.md",
+    "Pasted image 20231214125325.png",
+    "Untitled.canvas",
+    "ITS/Templates/Definizione.md",
+    "ITS/Templates/Appunti.md",
+    "ITS/Templates",
+    "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/8. Tipi di S.O. Compilatori C Macchine Virtuali.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231214125348.png",
+    "ITS/UFS/UFS 01 Sistemi operativi/5.1 Layout di un processo.md",
+    "To do.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/7.1 Esercizi.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/6.3  Prototipi funzioni - più file sorgente.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/5. Periferiche e multicore.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/3. Batch, Multiprog, Time sharing.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/5.2 Esercizio sullo stack.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/6.2 Array c.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/UFS 03 index.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/6. Analisi variabili nello stack.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/3. Esercizi con python.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/4. Funzioni in python.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/5. Array associativi Tuple e variabili immutabili.md",
+    "~$domande_SO_2024.tmp",
     "README.dm",
     "New Documento di testo.txt",
-    "ITS/UFS/UFS 01 Sistemi operativi/7.1 Esercizi.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/6.2 Array c.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/6.3  Prototipi funzioni - più file sorgente.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/4.1 Esercizi funzioni python.md",
-    "7.2 Esercizi vacanze 7-10 dicembre 2023.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/3. Esercizi con python.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/4. Esercizi e funzioni in python.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/UFS 03 index.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/1. Definizione algoritmo & problemi esponenziali.md",
-    "ITS/UFT/UFT04 Economia e organizzazione aziendale/UFT 04 index.md",
-    "ITS/UFS/UFS 04 Java base/1.2 Prima esecuzione.md",
-    "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
-    "To - Do compiti.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
     "es_stringhe.txt",
     "domande_SO_2024.docx",
-    "ITS/UFS/UFS 04 Java base/1.1 Java.md",
-    "ITS/UFT/UFT04 Economia e organizzazione aziendale/Domande.md",
-    "ITS/UFT/UFT04 Economia e organizzazione aziendale/6. Business unit.md",
-    "ITS/UFT/UFT04 Economia e organizzazione aziendale/1. Tipi di economie.md",
-    "ITS/UFT/UFT04 Economia e organizzazione aziendale/3. Analisi del mercato.md",
     "Untitled",
-    "UFT/UFT04 Economia e organizzazione aziendale/Domande.md",
-    "UFT/UFT04 Economia e organizzazione aziendale/6. Business unit.md",
-    "UFT/UFT04 Economia e organizzazione aziendale/5. Classificazione dei costi.md",
-    "UFT/UFT04 Economia e organizzazione aziendale/UFT 04 index.md",
-    "UFT/UFT04 Economia e organizzazione aziendale/3. Analisi del mercato.md",
     "UFT/UFT04 Economia e organizzazione aziendale/Img/Pasted image 20231204155529.png",
     "UFT/UFT04 Economia e organizzazione aziendale/Img",
     "UFT/UFT04 Economia e organizzazione aziendale",
     "UFS/UFS 04/Img/Pasted image 20231204123144.png",
     "UFS/UFS 04/Img",
     "UFS/UFS 04/Img/Pasted image 20231204113608.png",
-    "UFS/UFS 04",
-    "Untitled.canvas",
     "UFT/UFT 06 Project management Agile/Img/Pasted image 20231130222944.png",
     "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130123232.png",
     "Pasted image 20231130123230.png",
     "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130121113.png",
     "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130121150.png",
-    "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130103024.png",
-    "UFS/UFS 01 Sistemi operativi/Untitled",
-    "UFS/UFS 03 Algoritmi e strutture dati/Img/Gioco 11 fiammiferi.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

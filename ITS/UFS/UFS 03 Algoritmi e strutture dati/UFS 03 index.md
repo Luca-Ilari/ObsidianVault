@@ -3,5 +3,7 @@
 [[1.1 Esercizio a casa]]
 [[UFS/UFS 03 Algoritmi e strutture dati/2.]]
 [[3. Esercizi con python]]
-[[4. Esercizi e funzioni in python]]
+[[4. Funzioni in python]]
 [[4.1 Esercizi funzioni python]]
+[[5. Array associativi Tuple e variabili immutabili]]
+[[5.1 Esercizi]]

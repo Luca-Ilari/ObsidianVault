@@ -3,5 +3,8 @@
   "enabledCssSnippets": [
     "indent"
   ],
-  "baseFontSize": 18
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "translucency": false,
+  "nativeMenus": false
 }
