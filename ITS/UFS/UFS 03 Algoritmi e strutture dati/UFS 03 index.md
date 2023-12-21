@@ -7,3 +7,5 @@
 [[4.1 Esercizi funzioni python]]
 [[5. Array associativi Tuple e variabili immutabili]]
 [[5.1 Esercizi]]
+[[6. List Comprehension]]
+[[6.1 Esercizi vacanze dizionari]]

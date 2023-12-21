@@ -6,3 +6,6 @@
 [[2.2 Esercizio stampa su più righe]]
 [[3. Metodi String Operatori aritmetici]]
 [[3.1 Esercizi manipolazione stringhe]]
+[[4. Switch Cicli]]
+[[4.1 Esercizi con stringhe]]
+[[4.2 Leggere blocchi di dati e menu]]

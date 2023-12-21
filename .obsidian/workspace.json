@@ -14,15 +14,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9. Calcolo Parallelo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "group": "515b4b8d94dd86e4"
+          },
+          {
+            "id": "44c888811963e3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9. Calcolo Parallelo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1177abd4beec054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a3e8affde90144bf",
@@ -39,7 +66,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "README.md",
+                    "file": "ITS/UFS/UFS 01 Sistemi operativi/9. Calcolo Parallelo.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -62,7 +89,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.927481127131147,
+                      "scale": 0.8176760406711341,
                       "close": true
                     }
                   }
@@ -81,7 +108,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
+                    "file": "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -120,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md"
               }
             }
           },
@@ -237,14 +264,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d70f3c777a020205",
+  "active": "f1177abd4beec054",
   "lastOpenFiles": [
-    "To - Do compiti.md",
-    "README.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9.2 Esempio Data Parallelism.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9. Calcolo Parallelo.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231221103043.png",
+    "ITS/UFS/UFS 01 Sistemi operativi/5. Periferiche e multicore.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/3. Batch, Multiprog, Time sharing.md",
+    "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
+    "To do.md",
+    "ITS/UFS/UFS 04 Java base/4.2 Leggere blocchi di dati e menu.md",
+    "ITS/UFS/UFS 04 Java base/4. Switch Cicli.md",
+    "ITS/UFS/UFS 04 Java base/4.1 Esercizi con stringhe.md",
+    "ITS/UFS/UFS 04 Java base/2. Concetti base Java.md",
     "ITS/UFS/UFS 04 Java base/3. Metodi String Operatori aritmetici.md",
     "ITS/UFS/UFS 04 Java base/3.1 Esercizi manipolazione stringhe.md",
-    "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
-    "ITS/UFS/UFS 04 Java base/2. Concetti base Java.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/6.1 Esercizi vacanze dizionari.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/UFS 03 index.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/6. List Comprehension.md",
+    "ITS/UFT/UFT04 Economia e organizzazione aziendale/7.1 Esercitazione.md",
+    "ITS/UFT/UFT04 Economia e organizzazione aziendale/7.2 Esercitazione.md",
+    "README.md",
+    "To - Do compiti.md",
     "ITS/UFS/UFS 04 Java base/2.1 Esercizio input.md",
     "ITS/UFS/UFS 04 Java base/2.2 Esercizio stampa su più righe.md",
     "5.1.md",
@@ -253,22 +296,7 @@
     "ITS/Templates/Definizione.md",
     "ITS/Templates/Appunti.md",
     "ITS/Templates",
-    "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/8. Tipi di S.O. Compilatori C Macchine Virtuali.md",
     "ITS/UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231214125348.png",
-    "ITS/UFS/UFS 01 Sistemi operativi/5.1 Layout di un processo.md",
-    "To do.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/7.1 Esercizi.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/6.3  Prototipi funzioni - più file sorgente.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/5. Periferiche e multicore.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/3. Batch, Multiprog, Time sharing.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/5.2 Esercizio sullo stack.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/6.2 Array c.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/UFS 03 index.md",
-    "ITS/UFS/UFS 01 Sistemi operativi/6. Analisi variabili nello stack.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/3. Esercizi con python.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/4. Funzioni in python.md",
-    "ITS/UFS/UFS 03 Algoritmi e strutture dati/5. Array associativi Tuple e variabili immutabili.md",
     "~$domande_SO_2024.tmp",
     "README.dm",
     "New Documento di testo.txt",
@@ -285,7 +313,6 @@
     "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130123232.png",
     "Pasted image 20231130123230.png",
     "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130121113.png",
-    "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130121150.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

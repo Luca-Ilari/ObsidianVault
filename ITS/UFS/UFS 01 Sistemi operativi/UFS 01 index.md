@@ -10,3 +10,6 @@
 [[6.3  Prototipi funzioni - più file sorgente]]
 [[7.1 Esercizi]]
 [[8. Tipi di S.O. Compilatori C Macchine Virtuali]]
+[[9. Calcolo Parallelo]]
+[[9.1 Processi C]]
+[[9.2 Esempio Data Parallelism]]
