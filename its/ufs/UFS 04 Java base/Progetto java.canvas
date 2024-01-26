@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"da853f8b875f8a3c","type":"group","x":-780,"y":20,"width":1107,"height":238,"label":"Funzionalità"},
+		{"id":"1c608897e2d1494a","type":"group","x":-780,"y":-240,"width":1107,"height":220,"color":"5","label":"Classi"},
+		{"id":"3e1f8a1a67f0476b","type":"text","text":"","x":-95,"y":-160,"width":188,"height":60},
+		{"id":"a8141be2758b644b","type":"text","text":"UiMenu","x":124,"y":-160,"width":183,"height":60},
+		{"id":"30ad381b9bdf63b5","type":"text","text":"","x":-283,"y":-160,"width":188,"height":60},
+		{"id":"1b3bc112c90e06af","type":"text","text":"Piatto","x":-760,"y":-160,"width":177,"height":60,"color":"1"},
+		{"id":"f4db823ac24d917e","type":"text","text":"- 3 Variabili di istanza\n- Costruttore\n- Getter\n- Setter\n- Equals\n- Clone\n- toString","x":-460,"y":-700,"width":334,"height":260,"color":"4"},
+		{"id":"43a3b2d64a5b7fba","type":"text","text":"Implementa Classe Interfaccia\n","x":-126,"y":40,"width":250,"height":80,"color":"1"},
+		{"id":"e0d9302c62996cec","type":"text","text":"Main","x":135,"y":120,"width":162,"height":58},
+		{"id":"0f6aa1c6310c85c9","type":"text","text":"Classe Interfaccia","x":-314,"y":178,"width":250,"height":60,"color":"1"},
+		{"id":"da8b0419f9cb8dc3","type":"text","text":"Carne","x":-520,"y":-160,"width":157,"height":60},
+		{"id":"3b794e7943ce67c6","type":"text","text":"Contorni","x":-520,"y":-100,"width":183,"height":60},
+		{"id":"146cb964fb6b0f6d","type":"text","text":"Pasta","x":-520,"y":-220,"width":167,"height":60}
+	],
+	"edges":[
+		{"id":"8e57e5e7953cca51","fromNode":"1b3bc112c90e06af","fromSide":"top","toNode":"f4db823ac24d917e","toSide":"bottom"},
+		{"id":"febfc45ccd778030","fromNode":"30ad381b9bdf63b5","fromSide":"top","toNode":"f4db823ac24d917e","toSide":"bottom"},
+		{"id":"f01113fc369928f6","fromNode":"3e1f8a1a67f0476b","fromSide":"top","toNode":"f4db823ac24d917e","toSide":"bottom"},
+		{"id":"7b955c81a5421dae","fromNode":"30ad381b9bdf63b5","fromSide":"bottom","toNode":"0f6aa1c6310c85c9","toSide":"top"},
+		{"id":"e0d8d7594fd47ac1","fromNode":"43a3b2d64a5b7fba","fromSide":"left","toNode":"0f6aa1c6310c85c9","toSide":"right"},
+		{"id":"8fe5041c1389a4e0","fromNode":"3e1f8a1a67f0476b","fromSide":"bottom","toNode":"43a3b2d64a5b7fba","toSide":"top"},
+		{"id":"2ca658a99ecd4188","fromNode":"a8141be2758b644b","fromSide":"bottom","toNode":"e0d9302c62996cec","toSide":"top"},
+		{"id":"7db65dd1d3d8404a","fromNode":"1b3bc112c90e06af","fromSide":"right","toNode":"146cb964fb6b0f6d","toSide":"left"},
+		{"id":"bc7d22c1db460f0f","fromNode":"1b3bc112c90e06af","fromSide":"right","toNode":"da8b0419f9cb8dc3","toSide":"left"},
+		{"id":"f33ac1330cc97ae6","fromNode":"1b3bc112c90e06af","fromSide":"right","toNode":"3b794e7943ce67c6","toSide":"left"}
+	]
+}

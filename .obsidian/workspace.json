@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "02f2a5351160fb4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "baab370e412cf0be",
+        "type": "tabs",
+        "dimension": 73.60472751149048,
+        "children": [
+          {
+            "id": "d70f3c777a020205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "515b4b8d94dd86e4"
+          }
+        ]
+      },
+      {
+        "id": "a3e8affde90144bf",
+        "type": "split",
+        "dimension": 26.39527248850952,
+        "children": [
+          {
+            "id": "53b01c9a1a48882c",
+            "type": "tabs",
+            "dimension": 44.86434108527132,
+            "children": [
+              {
+                "id": "ac153506e51bc0a9",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5026516863796666,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "515b4b8d94dd86e4"
+              }
+            ]
+          },
+          {
+            "id": "a60bcebb7b218b77",
+            "type": "tabs",
+            "dimension": 55.13565891472868,
+            "children": [
+              {
+                "id": "636f3923227c0d6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efbe683d63573ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffbdb10e998133d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669e5af1269966fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef304644346339e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fork",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62fface4176b1dbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "9bf066b9c58ef66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd60b6be03561d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df60c436472769c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c28a1a6a3dfde1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aea1265ad96c65cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "625b2922f4f6d4b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md"
+              }
+            }
+          },
+          {
+            "id": "d9aee97422567bf5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e2d68371e3af3d6",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "d70f3c777a020205",
+  "lastOpenFiles": [
+    "ITS/UFS/UFS 04 Java base/Progetto java.canvas",
+    "ITS/UFS/UFS 04 Java base/9.1 Ereditarietà.md",
+    "ITS/UFS/UFS 04 Java base/9. Package.md",
+    "ITS/UFS/UFS 04 Java base/8.1 Information Hiding.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9.1 Processi C.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9.2 Esempio Data Parallelism.md",
+    "ITS/UFS/UFS 04 Java base/UFS 04 index.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/5.1 Layout di un processo.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/5.1 Esercizi array.md",
+    "UiMenu.md",
+    "ITS/UFS/UFS 04 Java base/2.1 Esercizio input.md",
+    "ITS/UFS/UFS 04 Java base/5. Array.md",
+    "ITS/UFS/UFS 02 Reti di calcolatori/3. Socket.md",
+    "ITS/UFS/UFS 04 Java base/Progetto java.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/UFS 01 index.md",
+    "ITS/UFS/UFS.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/10.2 Esercizio fork e thread.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/10. Fork e Exec.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/9. Calcolo Parallelo.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/12.1 Semafori e Mutex.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/12.2 Esercizio Thread concorrenza.canvas",
+    "ITS/UFS/UFS 01 Sistemi operativi/12. Scheduling.md",
+    "ITS/UFS/UFS 01 Sistemi operativi/11. Elaborazione sequenziale e concorrente.md",
+    "2024-01-24.md",
+    "ITS/UFS/UFS 04 Java base/8. Oggetti come parametri.md",
+    "ITS/UFS/UFS 03 Algoritmi e strutture dati/8. Domande.md",
+    "ITS/UFS/UFS 04 Java base/7. Classi Oggetti.md",
+    "ITS/UFT/UFT 03 Diritto commerciale",
+    "ITS/UFS/UFS 02 Reti di calcolatori",
+    "ITS/UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231221103043.png",
+    "Pasted image 20231214125325.png",
+    "Untitled.canvas",
+    "ITS/Templates",
+    "ITS/UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231214125348.png",
+    "~$domande_SO_2024.tmp",
+    "README.dm",
+    "New Documento di testo.txt",
+    "es_stringhe.txt",
+    "domande_SO_2024.docx",
+    "UFT/UFT04 Economia e organizzazione aziendale/Img/Pasted image 20231204155529.png",
+    "UFT/UFT04 Economia e organizzazione aziendale/Img",
+    "UFT/UFT04 Economia e organizzazione aziendale",
+    "UFS/UFS 04/Img/Pasted image 20231204123144.png",
+    "UFS/UFS 04/Img/Pasted image 20231204113608.png",
+    "UFT/UFT 06 Project management Agile/Img/Pasted image 20231130222944.png",
+    "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130123232.png",
+    "Pasted image 20231130123230.png",
+    "UFS/UFS 01 Sistemi operativi/Img/Pasted image 20231130121113.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

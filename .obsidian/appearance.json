@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "indent"
+  ],
+  "baseFontSize": 18,
+  "cssTheme": "Origami",
+  "translucency": false,
+  "nativeMenus": false,
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
+}
